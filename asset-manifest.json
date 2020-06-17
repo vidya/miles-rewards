@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/miles-rewards/static/css/main.5f361e03.chunk.css",
+    "main.js": "/miles-rewards/static/js/main.2fd53549.chunk.js",
+    "main.js.map": "/miles-rewards/static/js/main.2fd53549.chunk.js.map",
+    "runtime-main.js": "/miles-rewards/static/js/runtime-main.2ab8ca3c.js",
+    "runtime-main.js.map": "/miles-rewards/static/js/runtime-main.2ab8ca3c.js.map",
+    "static/js/2.74be9b55.chunk.js": "/miles-rewards/static/js/2.74be9b55.chunk.js",
+    "static/js/2.74be9b55.chunk.js.map": "/miles-rewards/static/js/2.74be9b55.chunk.js.map",
+    "index.html": "/miles-rewards/index.html",
+    "precache-manifest.6565742f8d0f7650f213e65eee87f7e9.js": "/miles-rewards/precache-manifest.6565742f8d0f7650f213e65eee87f7e9.js",
+    "service-worker.js": "/miles-rewards/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/miles-rewards/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.74be9b55.chunk.js.LICENSE.txt": "/miles-rewards/static/js/2.74be9b55.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/miles-rewards/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ab8ca3c.js",
+    "static/js/2.74be9b55.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2fd53549.chunk.js"
+  ]
+}
